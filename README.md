@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Nicholas-Sevier
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning the MERN Stack.
+- 👋 Hi, I’m @Nicholas-Sevier currently studying Computer Science at Oregon State University
+- 👀 I’m interested in Software Development, Machine Learning, and AI.
 - 📫 Contact me at Seviernick382@gmail.com.
 
 <!---
